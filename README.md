@@ -33,22 +33,22 @@ Developed by:
 ## Run the program
 You can run this program with three options:
 1. Run the program with a brand new and empty database
-'''
+```python
 python -m locker dbinit=True
-'''
+```
 
 2. Run the program with previously loaded database
-'''
+```python
 python -m locker dbinit=False
-'''
+```
 
 3. Run the program with pre-loaded data to showcase several functionalities of the program.
 Such as displaying plots from pre-loaded data
-'''
+```python
 python -m locker dbinit=Demo
-'''
+```
 
 ## Run tests
 You can run tests made for this project by simply typing
-'''pytest'''
+```pytest```
 in the command line of the project directory.
