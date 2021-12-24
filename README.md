@@ -14,14 +14,26 @@ Developed by:
 * Arduino IDE 1.8.16
 
 ### Libraries:
-* smtplib -- used to send email to clients
+* smtplib -- used to send email to clients (Pre-installed in Python)
 * kink -- provides dependency injection
 * pyfirmata -- provides control to an Arduino microcontroller from Python code
 * matplotlib -- displays graphs and plots
 * numpy -- helps process data for plots and graphs
-* abc -- define abstract base classes
-* datetime -- compute datetime object arithmetic
-* sqlite3 -- commit changes to database and query data from database
+* abc -- define abstract base classes (Pre-installed in Python)
+* datetime -- compute datetime object arithmetic (Pre-installed in Python)
+* sqlite3 -- commit changes to database and query data from database (Pre-installed in Python)
+* tkinter -- provides a simple way to create GUI elements (Pre-installed in Python)
+* pytest -- helps program testing, mostly for services
+
+### How to install libraries
+```python
+pip install pytest
+pip install numpy
+pip install matplotlib
+pip install kink
+pip install pyfirmata
+```
+
 
 ### Materials used:
 * Arduino microcontroller
