@@ -3,8 +3,8 @@
 ## Final Exam Project
 
 Developed by:
-- Samuel Marcellino Setiawan (202000202):
-  <a>github.com/samuelms21</a>
+- Samuel Marcellino Setiawan (202000202):  
+  [github.com/samuelms21](https://github.com/samuelms21)
 - Jastin Suriono (202000162)
   ~jastin link here
 
