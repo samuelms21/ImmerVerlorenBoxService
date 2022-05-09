@@ -1,6 +1,6 @@
 # Python Locker Service
-## Object Oriented Programming & Database Systems
-## Final Exam Project
+## Object Oriented Programming & Database Systems  
+Final Exam Project
 
 Developed by:
 - Samuel Marcellino Setiawan (202000202)  
