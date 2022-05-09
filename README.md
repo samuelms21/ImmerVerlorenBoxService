@@ -1,10 +1,12 @@
-# ImmerVerloren Box Service
+# Python Locker Service
 ## Object Oriented Programming & Database Systems
 ## Final Exam Project
 
 Developed by:
-- Samuel Marcellino Setiawan (202000202)
+- Samuel Marcellino Setiawan (202000202):
+  github.com/samuelms21
 - Jastin Suriono (202000162)
+  ~jastin link here
 
 ## Requirements:
 ### Programming languages and libraries used:
