@@ -4,7 +4,7 @@
 
 Developed by:
 - Samuel Marcellino Setiawan (202000202):
-  github.com/samuelms21
+  <a>github.com/samuelms21</a>
 - Jastin Suriono (202000162)
   ~jastin link here
 
