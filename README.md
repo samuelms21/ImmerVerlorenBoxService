@@ -3,10 +3,10 @@
 ## Final Exam Project
 
 Developed by:
-- Samuel Marcellino Setiawan (202000202):  
+- Samuel Marcellino Setiawan (202000202)  
   [github.com/samuelms21](https://github.com/samuelms21)
-- Jastin Suriono (202000162)
-  ~jastin link here
+- Jastin Suriono (202000162)  
+  [github.com/tintin1100](https://github.com/tintin1100)
 
 ## Requirements:
 ### Programming languages and libraries used:
